@@ -3,7 +3,7 @@ template: blog-post
 title: Advices That You Must Listen To Before Learning Design.
 date: 2022-04-14 17:11
 description: We create high integrity, highly engaging experiences to meet the
-  world's growing appetite for technology.
+  world's growing appetite for technology. Test
 featuredImage: ../../../static/assets/pexels-hatice-baran-10583688.jpg
 tags: []
 ---
